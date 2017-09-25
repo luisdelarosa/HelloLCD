@@ -1,6 +1,8 @@
 # HelloLCD
 Hello World for HD44780 Character LCD in Swift
 
+This relies on the SwiftyGPIO library for HD44780 LCD Displays at https://github.com/uraimo/HD44780CharacterLCD.swift
+
 Note that this was tested with an Leo Sales / OSEPP LCD-01 16x2 LCD Display available at Micro Center http://www.microcenter.com/product/453104/16x2_lcd_display_panel_module
 
 I made these connections:
